@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Programas RECODE\ap5\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2668078464.index
+1691773767.index
+2019166458.index
+1548871071.index
+1635440429.index
+55549974.index
+805419490.index
